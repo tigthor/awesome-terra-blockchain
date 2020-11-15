@@ -34,6 +34,12 @@ Applications with large-scale adoption, powered by Terra
 - [CHAI](https://chai.finance) - Payment gateway with 2m+ users operating in SEAsia providing discounts from seigniorage
 - [memeChat](http://memechat.mn/) - Payment gateway in Monogolia using TerraMNT
 
+### Smart Contracts
+
+Smart contracts applications, deployed on Terra
+
+- [Terraswap](https://terraswap.io) - Uniswap-inspired automated market maker on Terra, by DELIGHT validator
+
 ## Block Explorers
 
 - [Terra Finder](https://finder.terra.money) - Official block explorer by Terraform labs
