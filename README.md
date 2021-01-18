@@ -8,7 +8,11 @@ Terra is an open-source blockchain project that focuses on mass-user adoption an
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Table of Contents <!-- omit in toc -->
+### Contribute <!-- omit in toc -->
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Contents <!-- omit in toc -->
 
 - [Documentation](#documentation)
 - [Applications](#applications)
@@ -19,7 +23,6 @@ Terra is an open-source blockchain project that focuses on mass-user adoption an
   - [Testing](#testing)
   - [Infrastructure & Indexers](#infrastructure--indexers)
 - [Wallets](#wallets)
-- [Contribute](#contribute)
 
 ## Documentation
 
@@ -72,6 +75,3 @@ Smart contracts applications, deployed on Terra
 - [ZenGo](https://zengo.com/) - User-friendly and secure mobile crypto wallet with Terra support
 - [Lunie](https://lunie.io/) - Staking-focused wallet with mobile support (Discontinued)
 
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
