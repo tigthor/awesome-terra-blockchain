@@ -16,6 +16,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 - [Documentation](#documentation)
 - [Applications](#applications)
+  - [dApps](#dapps)
 - [Block Explorers](#block-explorers)
 - [Development Tools](#development-tools)
   - [SDKs](#sdks)
@@ -23,6 +24,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
   - [Testing](#testing)
   - [Infrastructure & Indexers](#infrastructure--indexers)
 - [Wallets](#wallets)
+- [Analytics & Dashboards](#analytics--dashboards)
 
 ## Documentation
 
@@ -37,11 +39,12 @@ Applications with large-scale adoption, powered by Terra
 - [CHAI](https://chai.finance) - Payment gateway with 2m+ users operating in SEAsia providing discounts from seigniorage
 - [memeChat](http://memechat.mn/) - Payment gateway in Monogolia using TerraMNT
 
-### Smart Contracts
+### dApps
 
-Smart contracts applications, deployed on Terra
+Smart contracts applications, deployed on Terra.
 
 - [Terraswap](https://terraswap.io) - Uniswap-inspired automated market maker on Terra, by DELIGHT validator
+- [Mirror](https://mirror.finance) - Decentralized synthetic assets trading and yield farming protocol
 
 ## Block Explorers
 
@@ -75,3 +78,8 @@ Smart contracts applications, deployed on Terra
 - [ZenGo](https://zengo.com/) - User-friendly and secure mobile crypto wallet with Terra support
 - [Lunie](https://lunie.io/) - Staking-focused wallet with mobile support (Discontinued)
 
+## Analytics & Dashboards
+
+- [Flipside Crypto](https://terra.flipsidecrypto.com)
+- [SmartStake](https://terra.smartstake.io)
+- [LunaRichList](https://Lunarichlist.com)
