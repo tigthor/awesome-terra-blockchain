@@ -59,7 +59,7 @@ Smart contracts applications, deployed on Terra.
 - [Terra.js](https://github.com/terra-project/terra.js) - JavaScript SDK for Terra
 
 ### Smart Contracts
-
+- [Cosmwasm Plus](https://github.com/terra-project/cosmwasm-plus) - Production Quality contracts under open source licenses
 - [Houston](https://github.com/terra-project/houston) - Terra Smart Contract development toolchain
 
 ### Testing
