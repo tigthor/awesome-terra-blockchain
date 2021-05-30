@@ -56,21 +56,21 @@ Smart contracts applications, deployed on Terra.
 
 ### SDKs
 
-- [Terra.js](https://github.com/terra-project/terra.js) - JavaScript SDK for Terra
+- [Terra.js](https://github.com/terra-money/terra.js) - JavaScript SDK for Terra
 
 ### Smart Contracts
-- [Cosmwasm Plus](https://github.com/terra-project/cosmwasm-plus) - Production Quality contracts under open source licenses
-- [Houston](https://github.com/terra-project/houston) - Terra Smart Contract development toolchain
+- [Cosmwasm Plus](https://github.com/terra-money/cosmwasm-plus) - Production Quality contracts under open source licenses
+- [Houston](https://github.com/terra-money/houston) - Terra Smart Contract development toolchain
 
 ### Testing
 
-- [LocalTerra](https://github.com/terra-project/LocalTerra) - Local, configurable one-click testnet for Terra
+- [LocalTerra](https://github.com/terra-money/LocalTerra) - Local, configurable one-click testnet for Terra
 
 ### Infrastructure & Indexers
 
-- [FCD](https://github.com/terra-project/fcd) - Indexer that powers core Terra Finder and Terra Station
-- [Mantle](https://github.com/terra-project/mantle) - A set of default indexers for Terra, powered by Mantle-SDK
-- [Mantle-SDK](https://github.com/terra-project/mantle-sdk) - Framework / subsystem for writing indexers for Terra blockchain
+- [FCD](https://github.com/terra-money/fcd) - Indexer that powers core Terra Finder and Terra Station
+- [Mantle](https://github.com/terra-money/mantle) - A set of default indexers for Terra, powered by Mantle-SDK
+- [Mantle-SDK](https://github.com/terra-money/mantle-sdk) - Framework / subsystem for writing indexers for Terra blockchain
 
 ## Wallets
 
